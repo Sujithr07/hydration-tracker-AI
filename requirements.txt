@@ -1,0 +1,10 @@
+langchain
+llama-index
+google-generativeai
+streamlit
+sqlalchemy
+fastapi
+uvicorn
+loguru
+APScheduler
+sqlite-utils
