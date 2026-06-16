@@ -8,3 +8,4 @@ uvicorn
 loguru
 APScheduler
 sqlite-utils
+python-dotenv
