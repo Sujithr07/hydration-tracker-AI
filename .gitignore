@@ -28,3 +28,6 @@ dist/
 
 # Streamlit
 .streamlit/
+
+# Local app database
+water_tracker.db
